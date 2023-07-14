@@ -1,0 +1,5 @@
+this is a test file.
+there has some words:
+chinadaas
+abcdefg
+111222333
